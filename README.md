@@ -1,2 +1,2 @@
-irc-akacho-bot
-==============
+akachoh irc bot
+===================

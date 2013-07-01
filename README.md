@@ -1,3 +1,3 @@
-akachoh irc bot
+akachoh
 ===================
 名前を呼んでください
